@@ -1,6 +1,7 @@
 import configparser
 import os 
 
+# ! Não expor o .ini para o github
 class configuracoes:
     def carregarDados(self):
         self.diretorio = os.path.abspath("./lib/config.ini") #Diretório de configurações default - Credenciais
@@ -10,9 +11,4 @@ class configuracoes:
 
     def credenciais(self, config):
         return config["credenciais"]
-
-        
-
-#teste = configuracoes()
-#credenciais = teste.carregarDados()
-#print(teste.credenciais(credenciais)["senha"])
+  

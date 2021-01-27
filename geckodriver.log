@@ -1,0 +1,174 @@
+1611687007572	geckodriver	INFO	Listening on 127.0.0.1:47943
+1611687007577	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIv2P8z"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611687013625	Marionette	INFO	Listening on port 38465
+1611687013714	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1611687019560	Marionette	INFO	Stopped listening on port 38465
+1611769900100	geckodriver	INFO	Listening on 127.0.0.1:59105
+1611769901045	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7htFjP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611769914403	Marionette	INFO	Listening on port 34781
+1611769914707	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611769931824	Marionette	INFO	Stopped listening on port 34781
+1611777144993	geckodriver	INFO	Listening on 127.0.0.1:52679
+1611777145946	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNyLHOx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611777173269	Marionette	INFO	Listening on port 36897
+1611777173578	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 36: unreachable code after return statement
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 112: unreachable code after return statement
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 202: unreachable code after return statement
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 296: unreachable code after return statement
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 296: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pjd.tjgo.jus.br"
+1611777387735	geckodriver	INFO	Listening on 127.0.0.1:41489
+1611777388699	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePT7TYB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611777400203	Marionette	INFO	Listening on port 42769
+1611777400298	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 36: unreachable code after return statement
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 112: unreachable code after return statement
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 202: unreachable code after return statement
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 296: unreachable code after return statement
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 296: unreachable code after return statement
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1611777419902	Marionette	INFO	Stopped listening on port 42769
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1611777871723	Marionette	INFO	Stopped listening on port 36897
+1611779431361	geckodriver	INFO	Listening on 127.0.0.1:51557
+1611779431393	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJpXxiH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611779439995	Marionette	INFO	Listening on port 41993
+1611779440087	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 36: unreachable code after return statement
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 112: unreachable code after return statement
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 202: unreachable code after return statement
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 296: unreachable code after return statement
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 296: unreachable code after return statement
+1611779461001	geckodriver	INFO	Listening on 127.0.0.1:44281
+1611779461022	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelwq4KK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611779469518	Marionette	INFO	Listening on port 43611
+1611779469623	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 36: unreachable code after return statement
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 112: unreachable code after return statement
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 202: unreachable code after return statement
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 296: unreachable code after return statement
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 296: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1611779503933	Marionette	INFO	Stopped listening on port 43611
+1611779505840	geckodriver	INFO	Listening on 127.0.0.1:51277
+1611779505871	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8ilNQZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611779519787	Marionette	INFO	Listening on port 34105
+1611779519867	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 36: unreachable code after return statement
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 112: unreachable code after return statement
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 202: unreachable code after return statement
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 296: unreachable code after return statement
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 296: unreachable code after return statement
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 36: unreachable code after return statement
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 112: unreachable code after return statement
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 202: unreachable code after return statement
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 296: unreachable code after return statement
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 296: unreachable code after return statement
+1611779537682	geckodriver	INFO	Listening on 127.0.0.1:52577
+1611779537692	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexXTRC5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611779545638	Marionette	INFO	Listening on port 40237
+1611779545794	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 36: unreachable code after return statement
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 112: unreachable code after return statement
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 202: unreachable code after return statement
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 296: unreachable code after return statement
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 296: unreachable code after return statement
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 36: unreachable code after return statement
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 112: unreachable code after return statement
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 202: unreachable code after return statement
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 296: unreachable code after return statement
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 296: unreachable code after return statement
+1611779673096	geckodriver	INFO	Listening on 127.0.0.1:58095
+1611779673117	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileElFpnj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611779686683	Marionette	INFO	Listening on port 36359
+1611779686804	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 36: unreachable code after return statement
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 112: unreachable code after return statement
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 202: unreachable code after return statement
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 296: unreachable code after return statement
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 296: unreachable code after return statement
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1611779692259	Marionette	INFO	Stopped listening on port 36359
+1611780018109	geckodriver	INFO	Listening on 127.0.0.1:56329
+1611780018127	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilee4wUwy"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611780028150	Marionette	INFO	Listening on port 37273
+1611780028224	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 36: unreachable code after return statement
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 112: unreachable code after return statement
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 202: unreachable code after return statement
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 296: unreachable code after return statement
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 296: unreachable code after return statement
+1611780071366	geckodriver	INFO	Listening on 127.0.0.1:39695
+1611780071391	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegddXwg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611780080544	Marionette	INFO	Listening on port 35485
+1611780080675	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 36: unreachable code after return statement
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 112: unreachable code after return statement
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 202: unreachable code after return statement
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 296: unreachable code after return statement
+JavaScript warning: https://pjd.tjgo.jus.br/js/filtro_movimentacoes.js, line 296: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1611780157430	Marionette	INFO	Stopped listening on port 35485
