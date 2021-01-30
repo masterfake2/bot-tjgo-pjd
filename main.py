@@ -3,6 +3,12 @@ import logging
 import os
 import sys
 import load 
+import gspread
+from oauth2client.service_account import ServiceAccountCredentials
+from apiclient.discovery import build
+from httplib2 import Http
+from oauth2client import file, client, tools
+import pandas as pd
 
 class Configuracoes:
     logging.basicConfig(filename="application.log", level=logging.INFO)
@@ -58,10 +64,24 @@ class Tribunal(Configuracoes):
         #*driver = webdriver.Firefox(executable_path='/home/jamal/Downloads/geckodriver-v0.29.0-linux64/geckodriver', service_log_path=os.devnull)
         #*driver.get("http://www.python.org")
                 
+class GoogleSheet(Configuracoes):
+    def __init__(self) -> None:
+        scopes = 'https://www.googleapis.com/auth/spreadsheets.readonly'
+        store = file.Storage(os.path.abspath("./lib/") + '/credentials.json')
+        creds = store.get()
+        if not creds or creds.invalid:
+            flow = client.flow_from_clientsecrets('credentials.json', scopes)
+            creds = tools.run_flow(flow, store)
+        service = build('sheets', 'v4', http=creds.authorize(Http()))
 
-msg = Navegador()
-nav = msg.criarBrowser()
+        # Call the Sheets API
+        gsheet = service.spreadsheets().values().get(spreadsheetId=spreadsheet_id, range=range_name).execute()
 
-tj = Tribunal(nav)
-tj.entrarTribubal()
-tj.preencheDados()
+# * msg = Navegador()
+# * nav = msg.criarBrowser()
+
+# * tj = Tribunal(nav)
+# * tj.entrarTribubal()
+# * tj.preencheDados()
+
+teste = GoogleSheet()
